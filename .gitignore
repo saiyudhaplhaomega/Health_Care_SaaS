@@ -1,0 +1,5 @@
+# Environment variables (matches at any directory level)
+**/.env.local
+# Week1 documentation folder
+week1/
+
